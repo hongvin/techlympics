@@ -4,6 +4,7 @@ from functools import reduce
 import pandas as pd
 import numpy as np
 import subprocess
+from git import Repo
 
 with open("/root/wdash/config.yml", "r") as config_file:
     CONFIG = yaml.safe_load(config_file)
