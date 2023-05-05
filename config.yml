@@ -1,0 +1,11 @@
+LAT: 2.011
+LON: 107.862
+
+DB_HOST: localhost
+DB_PORT: 27017
+DB_NAME: "dashboard"
+INTERVAL: 180
+PORT: 8000
+# Your api key goes here
+API_KEY: "5465ad901b952f6599a4786dd47fc9df"
+WINDY_EMBED: "https://embed.windy.com/embed2.html?lat=2.011&lon=107.862&detailLat=39.339&detailLon=-120.173&width=650&height=450&zoom=5&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=mph&metricTemp=%C2%B0F&radarRange=-1"

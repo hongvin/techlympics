@@ -1,0 +1,6 @@
+PyYAML==5.4.1
+pyowm==3.2.0
+dash==1.20.0
+pymongo==3.11.4
+pandas==1.2.5
+flask==2.1.3
